@@ -10,4 +10,4 @@ Screenshot
 ---------------------
 #Version 1
 
-<img width="500px" src="https://user-images.githubusercontent.com/56218979/73043489-29d33200-3e1a-11ea-8d8f-d7cb38ede12a.png" />
+<img width="700px" src="https://user-images.githubusercontent.com/56218979/73043489-29d33200-3e1a-11ea-8d8f-d7cb38ede12a.png" />
